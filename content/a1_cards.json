@@ -1,0 +1,254 @@
+[
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Apple",
+  "file": "u01_food/apple.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A shiny cute red apple with a green leaf in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Apple\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "تفاحة"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Banana",
+  "file": "u01_food/banana.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A bright yellow banana in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Banana\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "موزة"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Orange",
+  "file": "u01_food/orange.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A round juicy orange fruit with a leaf in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Orange\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "برتقالة"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Bread",
+  "file": "u01_food/bread.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A fresh golden loaf of bread in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Bread\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "خبز"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Milk",
+  "file": "u01_food/milk.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A glass of milk next to a small milk carton in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Milk\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "لبن / حليب"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Water",
+  "file": "u01_food/water.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A clear glass of water with a few drops in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Water\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "مياه / ماء"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Egg",
+  "file": "u01_food/egg.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A white egg next to a cracked egg with yolk in a small bowl in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Egg\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "بيضة"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Rice",
+  "file": "u01_food/rice.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A bowl of white rice in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Rice\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "أرز"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Tea",
+  "file": "u01_food/tea.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cup of hot tea with steam in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Tea\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "شاي"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "word",
+  "text": "Cake",
+  "file": "u01_food/cake.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A small birthday cake with candles in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Cake\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "كعكة / تورتة"
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "sentence",
+  "text": "I eat an apple.",
+  "file": "u01_food/i_eat_an_apple.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A happy cartoon girl eating a red apple in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"I eat an apple.\" Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "أنا آكل تفاحة."
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "sentence",
+  "text": "He drinks water.",
+  "file": "u01_food/he_drinks_water.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cartoon boy drinking a glass of water in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"He drinks water.\" Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "هو يشرب الماء."
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "sentence",
+  "text": "She likes bananas.",
+  "file": "u01_food/she_likes_bananas.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cartoon girl smiling and hugging a bunch of bananas in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"She likes bananas.\" Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "هي تحب الموز."
+ },
+ {
+  "unit": "u01_food",
+  "unit_title": "Food & Drinks",
+  "type": "sentence",
+  "text": "I am hungry.",
+  "file": "u01_food/i_am_hungry.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cartoon boy holding his tummy and looking at food on a table in the center on a soft pastel yellow background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"I am hungry.\" Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "أنا جائع."
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Cat",
+  "file": "u02_animals/cat.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute fluffy orange cat sitting and smiling in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Cat\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "قطة"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Dog",
+  "file": "u02_animals/dog.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute brown puppy sitting and wagging its tail in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Dog\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "كلب"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Bird",
+  "file": "u02_animals/bird.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A small cute blue bird on a branch in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Bird\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "عصفور / طائر"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Fish",
+  "file": "u02_animals/fish.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute orange fish in a round fishbowl in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Fish\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "سمكة"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Horse",
+  "file": "u02_animals/horse.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A friendly brown horse standing in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Horse\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "حصان"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Cow",
+  "file": "u02_animals/cow.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute black and white cow in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Cow\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "بقرة"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Rabbit",
+  "file": "u02_animals/rabbit.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute white rabbit with long ears in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Rabbit\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "أرنب"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Lion",
+  "file": "u02_animals/lion.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A friendly cartoon lion with a big mane in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Lion\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "أسد"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Elephant",
+  "file": "u02_animals/elephant.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute grey baby elephant in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Elephant\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "فيل"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "word",
+  "text": "Duck",
+  "file": "u02_animals/duck.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute yellow duck in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"Duck\". Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "بطة"
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "sentence",
+  "text": "The dog is under the table.",
+  "file": "u02_animals/the_dog_is_under_the_table.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute brown puppy lying clearly underneath a wooden table (the table top is above the dog) in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"The dog is under the table.\" Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "الكلب تحت الطاولة."
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "sentence",
+  "text": "The cat is on the chair.",
+  "file": "u02_animals/the_cat_is_on_the_chair.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute orange cat sitting on top of a wooden chair in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"The cat is on the chair.\" Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "القطة على الكرسي."
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "sentence",
+  "text": "The bird can fly.",
+  "file": "u02_animals/the_bird_can_fly.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cute blue bird flying in the sky with wings open in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"The bird can fly.\" Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "الطائر يستطيع أن يطير."
+ },
+ {
+  "unit": "u02_animals",
+  "unit_title": "Animals",
+  "type": "sentence",
+  "text": "I have a fish.",
+  "file": "u02_animals/i_have_a_fish.png",
+  "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cartoon boy smiling and holding a fishbowl with an orange fish in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"I have a fish.\" Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
+  "ar": "عندي سمكة."
+ }
+]

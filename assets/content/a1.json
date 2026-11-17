@@ -1,0 +1,187 @@
+{
+ "level": "A1",
+ "units": [
+  {
+   "id": "u01_food",
+   "title_en": "Food & Drinks",
+   "title_ar": "الطعام والشراب",
+   "cards": [
+    {
+     "type": "word",
+     "text": "Apple",
+     "ar": "تفاحة",
+     "image": "assets/cards/u01_food/apple.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Banana",
+     "ar": "موزة",
+     "image": "assets/cards/u01_food/banana.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Orange",
+     "ar": "برتقالة",
+     "image": "assets/cards/u01_food/orange.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Bread",
+     "ar": "خبز",
+     "image": "assets/cards/u01_food/bread.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Milk",
+     "ar": "لبن / حليب",
+     "image": "assets/cards/u01_food/milk.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Water",
+     "ar": "مياه / ماء",
+     "image": "assets/cards/u01_food/water.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Egg",
+     "ar": "بيضة",
+     "image": "assets/cards/u01_food/egg.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Rice",
+     "ar": "أرز",
+     "image": "assets/cards/u01_food/rice.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Tea",
+     "ar": "شاي",
+     "image": "assets/cards/u01_food/tea.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Cake",
+     "ar": "كعكة / تورتة",
+     "image": "assets/cards/u01_food/cake.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "I eat an apple.",
+     "ar": "أنا آكل تفاحة.",
+     "image": "assets/cards/u01_food/i_eat_an_apple.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "He drinks water.",
+     "ar": "هو يشرب الماء.",
+     "image": "assets/cards/u01_food/he_drinks_water.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "She likes bananas.",
+     "ar": "هي تحب الموز.",
+     "image": "assets/cards/u01_food/she_likes_bananas.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "I am hungry.",
+     "ar": "أنا جائع.",
+     "image": "assets/cards/u01_food/i_am_hungry.jpg"
+    }
+   ]
+  },
+  {
+   "id": "u02_animals",
+   "title_en": "Animals",
+   "title_ar": "الحيوانات",
+   "cards": [
+    {
+     "type": "word",
+     "text": "Cat",
+     "ar": "قطة",
+     "image": "assets/cards/u02_animals/cat.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Dog",
+     "ar": "كلب",
+     "image": "assets/cards/u02_animals/dog.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Bird",
+     "ar": "عصفور / طائر",
+     "image": "assets/cards/u02_animals/bird.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Fish",
+     "ar": "سمكة",
+     "image": "assets/cards/u02_animals/fish.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Horse",
+     "ar": "حصان",
+     "image": "assets/cards/u02_animals/horse.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Cow",
+     "ar": "بقرة",
+     "image": "assets/cards/u02_animals/cow.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Rabbit",
+     "ar": "أرنب",
+     "image": "assets/cards/u02_animals/rabbit.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Lion",
+     "ar": "أسد",
+     "image": "assets/cards/u02_animals/lion.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Elephant",
+     "ar": "فيل",
+     "image": "assets/cards/u02_animals/elephant.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Duck",
+     "ar": "بطة",
+     "image": "assets/cards/u02_animals/duck.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "The dog is under the table.",
+     "ar": "الكلب تحت الطاولة.",
+     "image": "assets/cards/u02_animals/the_dog_is_under_the_table.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "The cat is on the chair.",
+     "ar": "القطة على الكرسي.",
+     "image": "assets/cards/u02_animals/the_cat_is_on_the_chair.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "The bird can fly.",
+     "ar": "الطائر يستطيع أن يطير.",
+     "image": "assets/cards/u02_animals/the_bird_can_fly.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "I have a fish.",
+     "ar": "عندي سمكة.",
+     "image": "assets/cards/u02_animals/i_have_a_fish.jpg"
+    }
+   ]
+  }
+ ]
+}
