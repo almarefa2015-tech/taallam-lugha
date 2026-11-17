@@ -22,7 +22,13 @@ jobs:
           rm -rf test
           python3 tools/ci/patch_android.py
       - run: flutter pub get
-      - run: flutter build apk --release
+      - name: Build APK (retries on flaky Maven downloads)
+        run: |
+          for i in 1 2 3; do
+            flutter build apk --release && exit 0
+            echo "Build attempt $i failed, retrying in 30s"; sleep 30
+          done
+          exit 1
       - name: Publish to release "latest"
         uses: softprops/action-gh-release@v2
         with:
