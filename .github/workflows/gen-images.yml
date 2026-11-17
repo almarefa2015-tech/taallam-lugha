@@ -1,9 +1,6 @@
 name: Generate images
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: ['tools/**', '.github/workflows/gen-images.yml']
 permissions:
   contents: write
 jobs:
