@@ -754,5 +754,257 @@
   "ar": "أنا عندي خمس سنين.",
   "file": "u06_numbers/i_am_five_years_old.png",
   "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. A happy small child holding up one hand showing five fingers next to a birthday cake with five candles, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I am five years old.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Head",
+  "ar": "رأس",
+  "file": "u07_body/head.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling cartoon boy pointing at his own head with both hands, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Head\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Eye",
+  "ar": "عين",
+  "file": "u07_body/eye.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling cartoon girl pointing at her eye, one big friendly eye highlighted, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Eye\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Ear",
+  "ar": "ودن / أذن",
+  "file": "u07_body/ear.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling cartoon boy pointing at his ear, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Ear\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Nose",
+  "ar": "مناخير / أنف",
+  "file": "u07_body/nose.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling cartoon girl pointing at her nose, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Nose\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Mouth",
+  "ar": "بُق / فم",
+  "file": "u07_body/mouth.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling cartoon boy pointing at his wide open smiling mouth, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Mouth\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Hand",
+  "ar": "إيد / يد",
+  "file": "u07_body/hand.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. One open cartoon child's hand waving, palm facing forward, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Hand\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Foot",
+  "ar": "رِجل / قدم",
+  "file": "u07_body/foot.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. One bare cartoon child's foot, side view, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Foot\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Hair",
+  "ar": "شعر",
+  "file": "u07_body/hair.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling cartoon girl with long flowing brown hair, touching her hair, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Hair\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Teeth",
+  "ar": "سنان / أسنان",
+  "file": "u07_body/teeth.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling cartoon boy showing his clean white teeth in a big grin, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Teeth\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "word",
+  "text": "Leg",
+  "ar": "رِجل / ساق",
+  "file": "u07_body/leg.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A cartoon child standing on one leg, pointing at the leg, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Leg\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "sentence",
+  "text": "I wash my hands.",
+  "ar": "أنا بغسل إيديا.",
+  "file": "u07_body/i_wash_my_hands.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling child washing hands with soap bubbles under a small tap, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I wash my hands.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "sentence",
+  "text": "I brush my teeth.",
+  "ar": "أنا بغسل سناني.",
+  "file": "u07_body/i_brush_my_teeth.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling child brushing teeth with a toothbrush, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I brush my teeth.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "sentence",
+  "text": "I have two eyes.",
+  "ar": "عندي عينين.",
+  "file": "u07_body/i_have_two_eyes.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling child pointing at both eyes with two fingers, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I have two eyes.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u07_body",
+  "unit_title": "My Body",
+  "type": "sentence",
+  "text": "She has long hair.",
+  "ar": "هي شعرها طويل.",
+  "file": "u07_body/she_has_long_hair.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel aqua background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel aqua, with no scenery, no ground, no sky, no sparkles. A smiling girl with very long brown hair down to her waist, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"She has long hair.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "Shirt",
+  "ar": "قميص",
+  "file": "u08_clothes/shirt.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A blue button-up shirt, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Shirt\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "T-shirt",
+  "ar": "تيشيرت",
+  "file": "u08_clothes/tshirt.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A plain red t-shirt, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"T-shirt\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "Pants",
+  "ar": "بنطلون",
+  "file": "u08_clothes/pants.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A pair of blue jeans pants, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Pants\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "Dress",
+  "ar": "فستان",
+  "file": "u08_clothes/dress.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A pretty pink dress, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Dress\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "Shoes",
+  "ar": "جزمة / حذاء",
+  "file": "u08_clothes/shoes.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A pair of white sneakers, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Shoes\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "Socks",
+  "ar": "شراب / جوارب",
+  "file": "u08_clothes/socks.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A pair of striped socks, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Socks\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "Hat",
+  "ar": "طاقية / قبعة",
+  "file": "u08_clothes/hat.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A yellow sun hat, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Hat\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "Jacket",
+  "ar": "جاكيت",
+  "file": "u08_clothes/jacket.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A green zip-up jacket, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Jacket\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "Skirt",
+  "ar": "جيبة / تنورة",
+  "file": "u08_clothes/skirt.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A purple pleated skirt, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Skirt\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "word",
+  "text": "Scarf",
+  "ar": "كوفية / وشاح",
+  "file": "u08_clothes/scarf.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A warm red knitted scarf, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Scarf\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "sentence",
+  "text": "I wear a hat.",
+  "ar": "أنا لابس طاقية.",
+  "file": "u08_clothes/i_wear_a_hat.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A smiling boy wearing a yellow sun hat, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I wear a hat.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "sentence",
+  "text": "Her dress is pink.",
+  "ar": "فستانها بمبي.",
+  "file": "u08_clothes/her_dress_is_pink.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A smiling girl wearing a pink dress, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Her dress is pink.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "sentence",
+  "text": "Put on your shoes.",
+  "ar": "البس جزمتك.",
+  "file": "u08_clothes/put_on_your_shoes.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A child sitting and putting on white sneakers, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Put on your shoes.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u08_clothes",
+  "unit_title": "Clothes",
+  "type": "sentence",
+  "text": "It is cold. Wear a jacket.",
+  "ar": "الجو برد. البس جاكيت.",
+  "file": "u08_clothes/it_is_cold_wear_a_jacket.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel butter yellow background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel butter yellow, with no scenery, no ground, no sky, no sparkles. A child zipping up a green jacket with a few snowflakes falling around, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"It is cold. Wear a jacket.\" Nothing else written. Vertical 3:4 format."
  }
 ]
