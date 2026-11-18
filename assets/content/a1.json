@@ -182,6 +182,370 @@
      "image": "assets/cards/u02_animals/i_have_a_fish.jpg"
     }
    ]
+  },
+  {
+   "id": "u03_family",
+   "title_en": "Family",
+   "title_ar": "العيلة",
+   "cards": [
+    {
+     "type": "word",
+     "text": "Mother",
+     "ar": "أم",
+     "image": "assets/cards/u03_family/mother.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Father",
+     "ar": "أب",
+     "image": "assets/cards/u03_family/father.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Brother",
+     "ar": "أخ",
+     "image": "assets/cards/u03_family/brother.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Sister",
+     "ar": "أخت",
+     "image": "assets/cards/u03_family/sister.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Baby",
+     "ar": "طفل رضيع",
+     "image": "assets/cards/u03_family/baby.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Grandmother",
+     "ar": "جدة",
+     "image": "assets/cards/u03_family/grandmother.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Grandfather",
+     "ar": "جد",
+     "image": "assets/cards/u03_family/grandfather.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Boy",
+     "ar": "ولد",
+     "image": "assets/cards/u03_family/boy.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Girl",
+     "ar": "بنت",
+     "image": "assets/cards/u03_family/girl.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Friend",
+     "ar": "صديق",
+     "image": "assets/cards/u03_family/friend.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "This is my mother.",
+     "ar": "دي أمي.",
+     "image": "assets/cards/u03_family/this_is_my_mother.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "I have a brother.",
+     "ar": "عندي أخ.",
+     "image": "assets/cards/u03_family/i_have_a_brother.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "She is my sister.",
+     "ar": "هي أختي.",
+     "image": "assets/cards/u03_family/she_is_my_sister.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "We are a family.",
+     "ar": "إحنا عيلة.",
+     "image": "assets/cards/u03_family/we_are_a_family.jpg"
+    }
+   ]
+  },
+  {
+   "id": "u04_home",
+   "title_en": "Home",
+   "title_ar": "البيت",
+   "cards": [
+    {
+     "type": "word",
+     "text": "House",
+     "ar": "بيت",
+     "image": "assets/cards/u04_home/house.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Door",
+     "ar": "باب",
+     "image": "assets/cards/u04_home/door.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Window",
+     "ar": "شباك / نافذة",
+     "image": "assets/cards/u04_home/window.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Bed",
+     "ar": "سرير",
+     "image": "assets/cards/u04_home/bed.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Chair",
+     "ar": "كرسي",
+     "image": "assets/cards/u04_home/chair.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Table",
+     "ar": "طاولة / ترابيزة",
+     "image": "assets/cards/u04_home/table.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Book",
+     "ar": "كتاب",
+     "image": "assets/cards/u04_home/book.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Bag",
+     "ar": "شنطة",
+     "image": "assets/cards/u04_home/bag.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Phone",
+     "ar": "موبايل / هاتف",
+     "image": "assets/cards/u04_home/phone.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Key",
+     "ar": "مفتاح",
+     "image": "assets/cards/u04_home/key.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "The book is on the table.",
+     "ar": "الكتاب على الطاولة.",
+     "image": "assets/cards/u04_home/the_book_is_on_the_table.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "Open the door.",
+     "ar": "افتح الباب.",
+     "image": "assets/cards/u04_home/open_the_door.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "I sit on the chair.",
+     "ar": "أنا أقعد على الكرسي.",
+     "image": "assets/cards/u04_home/i_sit_on_the_chair.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "The bag is under the bed.",
+     "ar": "الشنطة تحت السرير.",
+     "image": "assets/cards/u04_home/the_bag_is_under_the_bed.jpg"
+    }
+   ]
+  },
+  {
+   "id": "u05_colors",
+   "title_en": "Colors",
+   "title_ar": "الألوان",
+   "cards": [
+    {
+     "type": "word",
+     "text": "Red",
+     "ar": "أحمر",
+     "image": "assets/cards/u05_colors/red.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Blue",
+     "ar": "أزرق",
+     "image": "assets/cards/u05_colors/blue.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Green",
+     "ar": "أخضر",
+     "image": "assets/cards/u05_colors/green.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Yellow",
+     "ar": "أصفر",
+     "image": "assets/cards/u05_colors/yellow.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Black",
+     "ar": "أسود",
+     "image": "assets/cards/u05_colors/black.jpg"
+    },
+    {
+     "type": "word",
+     "text": "White",
+     "ar": "أبيض",
+     "image": "assets/cards/u05_colors/white.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Pink",
+     "ar": "وردي / بمبي",
+     "image": "assets/cards/u05_colors/pink.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Purple",
+     "ar": "بنفسجي / موف",
+     "image": "assets/cards/u05_colors/purple.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Brown",
+     "ar": "بني",
+     "image": "assets/cards/u05_colors/brown.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Grey",
+     "ar": "رمادي",
+     "image": "assets/cards/u05_colors/grey.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "The apple is red.",
+     "ar": "التفاحة حمرا.",
+     "image": "assets/cards/u05_colors/the_apple_is_red.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "The sky is blue.",
+     "ar": "السما زرقا.",
+     "image": "assets/cards/u05_colors/the_sky_is_blue.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "I like green.",
+     "ar": "أنا بحب الأخضر.",
+     "image": "assets/cards/u05_colors/i_like_green.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "My bag is black.",
+     "ar": "شنطتي سودا.",
+     "image": "assets/cards/u05_colors/my_bag_is_black.jpg"
+    }
+   ]
+  },
+  {
+   "id": "u06_numbers",
+   "title_en": "Numbers",
+   "title_ar": "الأرقام",
+   "cards": [
+    {
+     "type": "word",
+     "text": "One",
+     "ar": "واحد",
+     "image": "assets/cards/u06_numbers/one.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Two",
+     "ar": "اتنين",
+     "image": "assets/cards/u06_numbers/two.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Three",
+     "ar": "تلاتة",
+     "image": "assets/cards/u06_numbers/three.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Four",
+     "ar": "أربعة",
+     "image": "assets/cards/u06_numbers/four.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Five",
+     "ar": "خمسة",
+     "image": "assets/cards/u06_numbers/five.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Six",
+     "ar": "ستة",
+     "image": "assets/cards/u06_numbers/six.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Seven",
+     "ar": "سبعة",
+     "image": "assets/cards/u06_numbers/seven.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Eight",
+     "ar": "تمانية",
+     "image": "assets/cards/u06_numbers/eight.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Nine",
+     "ar": "تسعة",
+     "image": "assets/cards/u06_numbers/nine.jpg"
+    },
+    {
+     "type": "word",
+     "text": "Ten",
+     "ar": "عشرة",
+     "image": "assets/cards/u06_numbers/ten.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "I have two cats.",
+     "ar": "عندي قطتين.",
+     "image": "assets/cards/u06_numbers/i_have_two_cats.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "She has three books.",
+     "ar": "هي معاها تلات كتب.",
+     "image": "assets/cards/u06_numbers/she_has_three_books.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "There are four eggs.",
+     "ar": "فيه أربع بيضات.",
+     "image": "assets/cards/u06_numbers/there_are_four_eggs.jpg"
+    },
+    {
+     "type": "sentence",
+     "text": "I am five years old.",
+     "ar": "أنا عندي خمس سنين.",
+     "image": "assets/cards/u06_numbers/i_am_five_years_old.jpg"
+    }
+   ]
   }
  ]
 }

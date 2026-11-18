@@ -250,5 +250,509 @@
   "file": "u02_animals/i_have_a_fish.png",
   "prompt": "Create an image in the same style: A colorful flashcard for a language-learning app, 3D cartoon style like a Pixar render. A cartoon boy smiling and holding a fishbowl with an orange fish in the center on a soft pastel blue background, rounded white card border. Below the picture, large bold clean rounded text that reads exactly: \"I have a fish.\" Bright, cheerful, high quality, no other text. Vertical 3:4 card format.",
   "ar": "عندي سمكة."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Mother",
+  "ar": "أم",
+  "file": "u03_family/mother.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A smiling young mother with brown hair, upper body, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Mother\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Father",
+  "ar": "أب",
+  "file": "u03_family/father.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A smiling young father with short dark hair, upper body, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Father\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Brother",
+  "ar": "أخ",
+  "file": "u03_family/brother.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A cheerful young boy, the brother, waving, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Brother\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Sister",
+  "ar": "أخت",
+  "file": "u03_family/sister.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A cheerful young girl with pigtails, the sister, waving, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Sister\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Baby",
+  "ar": "طفل رضيع",
+  "file": "u03_family/baby.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A cute happy baby sitting, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Baby\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Grandmother",
+  "ar": "جدة",
+  "file": "u03_family/grandmother.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A kind smiling grandmother with grey hair and glasses, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Grandmother\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Grandfather",
+  "ar": "جد",
+  "file": "u03_family/grandfather.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A kind smiling grandfather with grey hair and a mustache, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Grandfather\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Boy",
+  "ar": "ولد",
+  "file": "u03_family/boy.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A happy young boy standing, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Boy\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Girl",
+  "ar": "بنت",
+  "file": "u03_family/girl.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A happy young girl standing, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Girl\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "word",
+  "text": "Friend",
+  "ar": "صديق",
+  "file": "u03_family/friend.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. Two smiling children, a boy and a girl, standing side by side as friends, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Friend\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "sentence",
+  "text": "This is my mother.",
+  "ar": "دي أمي.",
+  "file": "u03_family/this_is_my_mother.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A smiling boy pointing at his smiling mother standing next to him, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"This is my mother.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "sentence",
+  "text": "I have a brother.",
+  "ar": "عندي أخ.",
+  "file": "u03_family/i_have_a_brother.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A smiling girl holding hands with her little brother, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I have a brother.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "sentence",
+  "text": "She is my sister.",
+  "ar": "هي أختي.",
+  "file": "u03_family/she_is_my_sister.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A boy with his arm around his smiling sister, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"She is my sister.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u03_family",
+  "unit_title": "Family",
+  "type": "sentence",
+  "text": "We are a family.",
+  "ar": "إحنا عيلة.",
+  "file": "u03_family/we_are_a_family.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel pink background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel pink, with no scenery, no ground, no sky, no sparkles. A happy family of mother, father, a boy and a girl standing together, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"We are a family.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "House",
+  "ar": "بيت",
+  "file": "u04_home/house.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A small cozy house with a red roof, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"House\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "Door",
+  "ar": "باب",
+  "file": "u04_home/door.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A wooden front door with a round handle, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Door\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "Window",
+  "ar": "شباك / نافذة",
+  "file": "u04_home/window.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. An open window with white frames and curtains, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Window\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "Bed",
+  "ar": "سرير",
+  "file": "u04_home/bed.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A cozy single bed with a pillow and blanket, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Bed\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "Chair",
+  "ar": "كرسي",
+  "file": "u04_home/chair.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A simple wooden chair, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Chair\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "Table",
+  "ar": "طاولة / ترابيزة",
+  "file": "u04_home/table.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A simple wooden table, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Table\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "Book",
+  "ar": "كتاب",
+  "file": "u04_home/book.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A closed blue book with no writing on the cover, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Book\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "Bag",
+  "ar": "شنطة",
+  "file": "u04_home/bag.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A red school backpack, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Bag\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "Phone",
+  "ar": "موبايل / هاتف",
+  "file": "u04_home/phone.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A modern smartphone with a blank colorful screen, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Phone\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "word",
+  "text": "Key",
+  "ar": "مفتاح",
+  "file": "u04_home/key.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A shiny golden key, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Key\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "sentence",
+  "text": "The book is on the table.",
+  "ar": "الكتاب على الطاولة.",
+  "file": "u04_home/the_book_is_on_the_table.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A blue book lying on top of a wooden table, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"The book is on the table.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "sentence",
+  "text": "Open the door.",
+  "ar": "افتح الباب.",
+  "file": "u04_home/open_the_door.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A smiling boy opening a wooden door, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Open the door.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "sentence",
+  "text": "I sit on the chair.",
+  "ar": "أنا أقعد على الكرسي.",
+  "file": "u04_home/i_sit_on_the_chair.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A smiling girl sitting on a wooden chair, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I sit on the chair.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u04_home",
+  "unit_title": "Home",
+  "type": "sentence",
+  "text": "The bag is under the bed.",
+  "ar": "الشنطة تحت السرير.",
+  "file": "u04_home/the_bag_is_under_the_bed.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel green background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel green, with no scenery, no ground, no sky, no sparkles. A red backpack lying on the floor clearly underneath a bed, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"The bag is under the bed.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "Red",
+  "ar": "أحمر",
+  "file": "u05_colors/red.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy red paint splash blob next to a red balloon, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Red\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "Blue",
+  "ar": "أزرق",
+  "file": "u05_colors/blue.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy blue paint splash blob next to a blue balloon, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Blue\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "Green",
+  "ar": "أخضر",
+  "file": "u05_colors/green.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy green paint splash blob next to a green leaf, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Green\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "Yellow",
+  "ar": "أصفر",
+  "file": "u05_colors/yellow.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy yellow paint splash blob next to a yellow star, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Yellow\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "Black",
+  "ar": "أسود",
+  "file": "u05_colors/black.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy black paint splash blob next to a black top hat, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Black\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "White",
+  "ar": "أبيض",
+  "file": "u05_colors/white.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy white paint splash blob next to a white cloud, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"White\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "Pink",
+  "ar": "وردي / بمبي",
+  "file": "u05_colors/pink.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy pink paint splash blob next to a pink flower, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Pink\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "Purple",
+  "ar": "بنفسجي / موف",
+  "file": "u05_colors/purple.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy purple paint splash blob next to a bunch of purple grapes, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Purple\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "Brown",
+  "ar": "بني",
+  "file": "u05_colors/brown.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy brown paint splash blob next to a brown teddy bear, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Brown\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "word",
+  "text": "Grey",
+  "ar": "رمادي",
+  "file": "u05_colors/grey.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A big glossy grey paint splash blob next to a grey stone, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Grey\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "sentence",
+  "text": "The apple is red.",
+  "ar": "التفاحة حمرا.",
+  "file": "u05_colors/the_apple_is_red.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A shiny red apple, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"The apple is red.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "sentence",
+  "text": "The sky is blue.",
+  "ar": "السما زرقا.",
+  "file": "u05_colors/the_sky_is_blue.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A small round window view showing a clear blue sky with one fluffy cloud, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"The sky is blue.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "sentence",
+  "text": "I like green.",
+  "ar": "أنا بحب الأخضر.",
+  "file": "u05_colors/i_like_green.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A smiling girl hugging a big green ball, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I like green.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u05_colors",
+  "unit_title": "Colors",
+  "type": "sentence",
+  "text": "My bag is black.",
+  "ar": "شنطتي سودا.",
+  "file": "u05_colors/my_bag_is_black.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel lavender background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel lavender, with no scenery, no ground, no sky, no sparkles. A smiling boy wearing a black school backpack, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"My bag is black.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "One",
+  "ar": "واحد",
+  "file": "u06_numbers/one.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly one red apple, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"One\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "Two",
+  "ar": "اتنين",
+  "file": "u06_numbers/two.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly two yellow ducks, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Two\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "Three",
+  "ar": "تلاتة",
+  "file": "u06_numbers/three.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly three blue balloons, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Three\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "Four",
+  "ar": "أربعة",
+  "file": "u06_numbers/four.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly four green apples in a row, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Four\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "Five",
+  "ar": "خمسة",
+  "file": "u06_numbers/five.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly five orange stars in a row, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Five\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "Six",
+  "ar": "ستة",
+  "file": "u06_numbers/six.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly six red strawberries, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Six\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "Seven",
+  "ar": "سبعة",
+  "file": "u06_numbers/seven.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly seven colorful pencils standing in a row, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Seven\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "Eight",
+  "ar": "تمانية",
+  "file": "u06_numbers/eight.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly eight small pink cupcakes in two rows of four, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Eight\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "Nine",
+  "ar": "تسعة",
+  "file": "u06_numbers/nine.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly nine purple grapes balls arranged in a 3 by 3 grid, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Nine\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "word",
+  "text": "Ten",
+  "ar": "عشرة",
+  "file": "u06_numbers/ten.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly ten small blue fish in two rows of five, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"Ten\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "sentence",
+  "text": "I have two cats.",
+  "ar": "عندي قطتين.",
+  "file": "u06_numbers/i_have_two_cats.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. A smiling boy sitting with exactly two orange kittens, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I have two cats.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "sentence",
+  "text": "She has three books.",
+  "ar": "هي معاها تلات كتب.",
+  "file": "u06_numbers/she_has_three_books.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. A smiling girl holding exactly three blue books, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"She has three books.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "sentence",
+  "text": "There are four eggs.",
+  "ar": "فيه أربع بيضات.",
+  "file": "u06_numbers/there_are_four_eggs.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. Exactly four white eggs in a small basket, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"There are four eggs.\" Nothing else written. Vertical 3:4 format."
+ },
+ {
+  "unit": "u06_numbers",
+  "unit_title": "Numbers",
+  "type": "sentence",
+  "text": "I am five years old.",
+  "ar": "أنا عندي خمس سنين.",
+  "file": "u06_numbers/i_am_five_years_old.png",
+  "prompt": "Create an image: A language-learning flashcard. The whole image is a flat, plain soft pastel peach background. On it sits one card with a thick white rounded border; the inside of the card is the same plain soft pastel peach, with no scenery, no ground, no sky, no sparkles. A happy small child holding up one hand showing five fingers next to a birthday cake with five candles, cute 3D cartoon style like a Pixar render, centered in the upper part of the card with a soft shadow. At the bottom of the card, large bold rounded dark navy blue text that reads exactly: \"I am five years old.\" Nothing else written. Vertical 3:4 format."
  }
 ]

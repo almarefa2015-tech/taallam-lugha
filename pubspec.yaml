@@ -27,3 +27,7 @@ flutter:
     - assets/content/
     - assets/cards/u01_food/
     - assets/cards/u02_animals/
+    - assets/cards/u03_family/
+    - assets/cards/u04_home/
+    - assets/cards/u05_colors/
+    - assets/cards/u06_numbers/
